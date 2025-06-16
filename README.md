@@ -4,6 +4,9 @@ Topic: Religion in East Asian Countries
 
 Data Source: Pew Research Center
 
+![pew_religious_research](https://github.com/user-attachments/assets/cef91d20-8c85-4af9-a0ff-2af757d67d15)
+
+
 
 **About Dataset:**
 
@@ -28,4 +31,7 @@ Who should be primarily responsible for earning money?
 One significant finding from the analysis is that religious factors have little influence on the responses. Across various questions—whether related to beliefs, family responsibilities, or daily life practices—respondents from different religious backgrounds provided remarkably similar answers. A possible explanation for this trend is the impact of social media, which has enhanced global interaction and communication more than ever before. People freely share their opinions, thoughts, and experiences, fostering a greater sense of connection across cultural and religious boundaries. Additionally, the widespread celebration of cultural and religious events worldwide may contribute to a blending of perspectives, leading to more aligned viewpoints across diverse groups.
 
 This project was a collaborative effort with Sharmeen Abdul Waheed, Usama Khan, and Warda Ali, whose contributions were integral to the analysis and insights we documented.
+
+![1741855656405](https://github.com/user-attachments/assets/947ab432-b046-4391-8348-ef35eb3f3ac2)
+
 
